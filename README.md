@@ -1,1 +1,1 @@
-# Soil-fertilty-and-Monitoring-system
+# Soil-fertility-and-Monitoring-system
